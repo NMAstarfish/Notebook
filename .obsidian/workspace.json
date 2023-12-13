@@ -11,9 +11,11 @@
             "id": "f2f499803d6e5aab",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "学习路径/学习路径.png"
+                "file": "CPP/常用.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习路径/学习路径.png",
+                "file": "CPP/常用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习路径/学习路径.png",
+                "file": "CPP/常用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习路径/学习路径.png"
+                "file": "CPP/常用.md"
               }
             }
           }
@@ -146,6 +148,8 @@
   },
   "active": "f2f499803d6e5aab",
   "lastOpenFiles": [
+    "学习路径/TCP,IP.md",
+    "学习路径/学习路径.png",
     "学习路径/GUI.md",
     "Linux/shell命令符.md",
     "tt.md"
