@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "CPP/类.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b2b4cbcf8ae40a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "CPP/常用.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,9 +159,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f2f499803d6e5aab",
+  "active": "8b2b4cbcf8ae40a4",
   "lastOpenFiles": [
+    "CPP/数据.md",
+    "CPP/常用.md",
+    "CPP/静态(static).md",
+    "CPP/类.md",
+    "CPP/函数.md",
     "学习路径/TCP,IP.md",
+    "面试/应聘信息.md",
+    "Z图像库/Screenshot 2023-12-15 181117.png",
+    "Z图像库/Screenshot 2023-12-15 180046.png",
+    "Z图像库/Pasted image 20231215175035.png",
     "学习路径/学习路径.png",
     "学习路径/GUI.md",
     "Linux/shell命令符.md",
