@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPP/常用.md",
+                "file": "学习路径/TCP,IP.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPP/常用.md",
+                "file": "学习路径/TCP,IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPP/常用.md",
+                "file": "学习路径/TCP,IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPP/常用.md"
+                "file": "学习路径/TCP,IP.md"
               }
             }
           }
@@ -161,19 +161,35 @@
   },
   "active": "8b2b4cbcf8ae40a4",
   "lastOpenFiles": [
-    "CPP/数据.md",
-    "CPP/常用.md",
-    "CPP/静态(static).md",
-    "CPP/类.md",
-    "CPP/函数.md",
-    "学习路径/TCP,IP.md",
+    "C/数据/数组.md",
+    "C/数据/指针.md",
+    "C/数据/字符串和字符串函数.md",
+    "C/数据/数据类型.md",
+    "C/函数/运算符.md",
+    "C/函数/输入输出.md",
+    "C/函数/函数调用.md",
+    "C/函数/分配内存.md",
+    "C/函数/库函数.md",
     "面试/应聘信息.md",
+    "面试/八股.md",
+    "面试/面经/自我介绍.md",
+    "面试/面经/项目.md",
+    "学习路径/协议.md",
+    "学习路径/Bootloader.md",
+    "学习路径/freeRTOS.md",
+    "Linux/Linux 八股.md",
+    "Linux/Linux简介.md",
+    "CPP/类.md",
+    "C/函数/递归.md",
+    "学习路径/TCP,IP.md",
+    "面试/面经/嵌入式结构.md",
+    "面试/面经/通信.md",
+    "CPP/静态(static).md",
+    "CPP/关键词.md",
+    "CPP/函数.md",
     "Z图像库/Screenshot 2023-12-15 181117.png",
     "Z图像库/Screenshot 2023-12-15 180046.png",
     "Z图像库/Pasted image 20231215175035.png",
-    "学习路径/学习路径.png",
-    "学习路径/GUI.md",
-    "Linux/shell命令符.md",
-    "tt.md"
+    "学习路径/学习路径.png"
   ]
 }
