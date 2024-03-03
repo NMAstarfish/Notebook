@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "36171f5d004f5043",
+        "id": "54f30f148835b5b3",
         "type": "tabs",
         "children": [
           {
-            "id": "f2f499803d6e5aab",
+            "id": "7891d1d490fb2f88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C&CPP/数据/类.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b2b4cbcf8ae40a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "面试/通信.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39fac2d4d10857d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "面试/应聘信息.md",
+                "file": "操作系统/硬件结构.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#多行读取",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/应聘信息.md",
+                "file": "操作系统/硬件结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/应聘信息.md",
+                "file": "操作系统/硬件结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +115,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -150,17 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/应聘信息.md"
+                "file": "操作系统/硬件结构.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,36 +146,37 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "39fac2d4d10857d8",
+  "active": "7891d1d490fb2f88",
   "lastOpenFiles": [
+    "学习路径/蓝牙.md",
+    "操作系统/硬件结构.md",
+    "学习路径/八股.md",
+    "学习路径/操作系统.md",
+    "操作系统",
+    "学习路径/TCP,IP.md",
+    "学习路径/GUI.md",
+    "面试/自我介绍.md",
+    "2024-02-29.md",
+    "学习路径/嵌入式结构.md",
+    "C&CPP/数据/数组.md",
+    "未命名.canvas",
+    "学习路径/通信.md",
+    "面试/应聘信息.md",
+    "面试/项目.md",
+    "学习路径/MCU架构.md",
+    "学习路径/协议.md",
     "C&CPP/数据/类.md",
-    "C&CPP/编译/类型限定符.md",
-    "C&CPP/编译/关键词.md",
     "C&CPP/函数/构造，析构，虚函数.md",
     "C&CPP/数据/字符串和字符串函数.md",
     "C&CPP/数据/枚举，引用，数组.md",
-    "C&CPP/函数/分支和跳转/循环辅助(continue和break).md",
-    "C&CPP/函数/分支和跳转/多重选择.md",
-    "C&CPP/编译/静态(static).md",
-    "C&CPP/编译/自建头文件.md",
-    "C&CPP/编译/预处理.md",
-    "C&CPP/编译/头文件.md",
-    "面试/应聘信息.md",
-    "面试/自我介绍.md",
-    "面试/嵌入式结构.md",
-    "学习路径/Bootloader.md",
-    "面试/项目.md",
-    "面试/八股.md",
-    "面试/通信.md",
+    "C&CPP/数据/联合.md",
+    "C&CPP/数据/数据类型.md",
+    "C&CPP/函数/输入输出.md",
+    "C&CPP/数据/数据传输.md",
+    "C&CPP/数据/指针.md",
+    "C&CPP/数据/结构体.md",
+    "C&CPP/函数/函数调用.md",
     "Z图像库/Pasted image 20231126145542.png",
-    "未命名.canvas",
-    "C&CPP/函数/分配内存.md",
-    "C&CPP/函数/递归.md",
-    "学习路径/freeRTOS.md",
-    "学习路径/TCP,IP.md",
-    "学习路径/MCU架构.md",
-    "学习路径/GUI.md",
-    "学习路径/蓝牙.md",
     "学习路径/学习路径.png",
     "Z图像库/Screenshot 2023-12-15 181117.png",
     "Z图像库/Screenshot 2023-12-15 180046.png",
