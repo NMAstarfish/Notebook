@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f225755cf386a7eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C&CPP/数据/数据类型.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "959bf5875b5318df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Samsung/Cmake.md",
+                "file": "Samsung/总结.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#多行读取",
+                "query": "tag:#终止条件有两种：",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Samsung/Cmake.md",
+                "file": "Samsung/总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Samsung/Cmake.md",
+                "file": "Samsung/总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Samsung/Cmake.md"
+                "file": "Samsung/总结.md"
               }
             }
           }
@@ -162,8 +150,10 @@
   },
   "active": "959bf5875b5318df",
   "lastOpenFiles": [
-    "C&CPP/数据/结构体.md",
+    "C&CPP/数据/数据类型.md",
+    "Samsung/总结.md",
     "Samsung/Cmake.md",
+    "C&CPP/数据/结构体.md",
     "Samsung",
     "学习路径/C++ & C.md",
     "学习路径/操作系统.md",
@@ -189,8 +179,6 @@
     "学习路径/学习路径.png",
     "学习路径/协议.md",
     "学习路径/八股.md",
-    "C&CPP/数据/类.md",
-    "C&CPP/函数/构造，析构，虚函数.md",
     "C&CPP/STL",
     "OS/9_linux_cmd",
     "OS/8_network_system",
